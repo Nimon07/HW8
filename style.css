@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+h1 { color: hsl(0, 92%, 25%); }
+h2 { color: #2b9658; }
+h3 { color: #b2d85b; }
+h4 { color: #3811e2; }
+h5 { color: #ffaa33; }
+h6 { color: #f022f7; }
+hr {
+    border: 1px solid #000;
+    margin: 20px 0;
+}
